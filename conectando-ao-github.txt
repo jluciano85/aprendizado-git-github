@@ -1,0 +1,3 @@
+Foi mostrado como criar uma conta no github
+fazer os primeiros passos pelo site online
+Verificado alguns comando basicos e iniciais
